@@ -16,7 +16,7 @@ changes:
 * `newPath` {string|Buffer|URL}
 * `callback` {Function}
   * `err` {Error}
-
+重命名
 异步的 rename(2)。
 完成回调只有一个可能的异常参数。
 
